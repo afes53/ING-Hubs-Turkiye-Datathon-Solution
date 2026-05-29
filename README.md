@@ -74,7 +74,3 @@ Notebook sonunda:
 * Modelleme ve değerlendirme tamamen yarışma kural setine uygundur
 * Kodlar okunabilirlik ve tekrar üretilebilirlik gözetilerek yazılmıştır
 
-
-* ya da **CV/GitHub profilinde gözüksün diye daha “showcase”** yaparım
-
-Hangisi?
